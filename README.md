@@ -1,12 +1,14 @@
 ![Banner](./banner.png)
 
+(Banner from [midjourney](https://midjourney.com/))
+
 ![Profile views](https://komarev.com/ghpvc/?username=YuutaTsubasa&label=Profile%20views&color=0e75b6&style=flat)
 
 <div id="toc">
   <ul align="center" style="list-style: none">
     <summary>
       <h1>
-        👋 Hi, my name is 悠太翼[JP: Yuuta Tsubasa / TW: Yu Ta I].
+        👋 Hi, my name is 悠太翼 [JP: Yuuta Tsubasa / TW: Yu Ta I].
       </h1>
     </summary>
   </ul>
