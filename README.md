@@ -8,7 +8,7 @@
   <ul align="center" style="list-style: none">
     <summary>
       <h1>
-        👋 Hi, my name is 悠太翼 [JP: Yuuta Tsubasa / TW: Yu Ta I].
+        👋 Hi, my name is 悠太翼 [JP: Yuuta Tsubasa / TW: Yu Tai I].
       </h1>
     </summary>
   </ul>
