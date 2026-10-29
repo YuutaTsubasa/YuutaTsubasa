@@ -1,6 +1,10 @@
-![Banner](./banner.png)
+![Banner](./banner.webp)
 
-(Banner from [midjourney](https://midjourney.com/))
+Banner:
+* 3D Model Concept: GPT6, Magnific
+* 3D Model Generation: Tripo AI
+* 3D Model Bones, BlendShapes: GPT6, Claude Opus 5.5
+* 3D Render: Claude Opus 5.5
 
 ![Profile views](https://komarev.com/ghpvc/?username=YuutaTsubasa&label=Profile%20views&color=0e75b6&style=flat)
 
